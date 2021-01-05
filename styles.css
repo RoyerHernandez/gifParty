@@ -1,0 +1,65 @@
+.main-background-image{
+    height:auto;
+    background-image: url("./Background/135164-fade.png");
+    background-size: 100% ;
+}
+.title{
+    top: 50px;
+    left: 100px;
+    width: calc(100% - 600px);
+    margin: auto;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 6rem;    
+    font-weight: bold;    
+    display: block;    
+    justify-content: center;    
+    color: yellow;
+}
+.image1 {
+    position: relative;
+    top: 50px;
+    left: 45px;
+    width: 200px;
+    height: 200px;
+    border-radius: 80px;
+}
+.image2 {
+    position: relative;
+    top: 30px;
+    left: 265px;
+    width: 200px;
+    height: 200px;
+    border-radius: 80px;
+}
+.image3 {
+    position: relative;
+    top: -200px;
+    left: 565px;
+    width: 200px;
+    height: 200px;
+    border-radius: 80px;
+}
+.image4 {
+    position: relative;
+    top: -400px;
+    left: 865px;
+    width: 200px;
+    height: 200px;
+    border-radius: 80px;
+}
+.image5 {
+    position: relative;
+    top: -850px;
+    left: 965px;
+    width: 200px;
+    height: 200px;
+    border-radius: 80px;
+}
+.image6 {
+    position: relative;
+    top: -1100px;
+    left: 565px;
+    width: 200px;
+    height: 200px;
+    border-radius: 80px;
+}
